@@ -1139,7 +1139,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="10.8158" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="10.8158" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="71.7088" y="12.3444" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="81.2038" y="14.702" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC2" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="17.6952" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="17.6952" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1147,7 +1146,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="17.6952" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="17.6952" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="71.5858" y="19.4056" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="66.6496" y="23.1816" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC3" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="24.8116" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="24.8116" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1155,7 +1153,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="24.8116" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="24.8116" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="71.5052" y="25.9588" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="65.1002" y="28.3676" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC4" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="31.6958" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="31.6958" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1163,7 +1160,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="31.6958" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="31.6958" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="71.5298" y="33.0708" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="64.9732" y="34.6676" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC5" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="38.7944" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="38.7944" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1171,7 +1167,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="38.7944" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="38.7944" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="71.467" y="40.1066" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="59.8678" y="39.3532" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC6" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="45.6628" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="45.6628" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1179,7 +1174,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="45.6628" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="45.6628" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="71.1518" y="46.7614" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="65.8622" y="49.549" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC7" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="52.7646" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="52.7646" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1187,7 +1181,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="52.7646" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="52.7646" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="72.2288" y="53.8226" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="59.8932" y="58.5304" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC8" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="59.6536" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="59.6536" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1195,7 +1188,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="59.6536" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="59.6536" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="72.0708" y="59.7662" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="62.103" y="62.7778" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC9" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="66.7158" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="66.7158" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1203,7 +1195,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="66.7158" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="66.7158" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="72.4254" y="66.8528" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="60.9092" y="71.7958" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC10" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="73.5842" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="73.5842" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1211,7 +1202,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="73.5842" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="73.5842" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="72.288" y="74.7014" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="61.5188" y="77.8768" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC11" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="80.6652" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="80.6652" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1219,7 +1209,7 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="80.6652" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="80.6652" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="72.2174" y="81.8642" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="62.357" y="84.1196" size="1.016" layer="27" ratio="10" rot="R180"/>
+<attribute name="VALUE" x="83.7438" y="120.7718" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC12" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="87.5336" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="87.5336" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1227,7 +1217,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="87.5336" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="87.5336" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="72.6642" y="90.8304" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="64.3382" y="97.719" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC13" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="94.6306" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="94.6306" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1235,7 +1224,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="94.6306" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="94.6306" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="71.7902" y="96.3676" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="63.9826" y="100.9044" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC14" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="101.499" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="101.499" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1243,7 +1231,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="101.499" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="101.499" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="71.6782" y="103.0224" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="64.897" y="106.2996" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC15" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="108.6214" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="108.6214" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1251,7 +1238,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="108.6214" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="108.6214" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="71.5408" y="110.49" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="59.4614" y="114.2094" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="IC16" library="maxim" package="TSSOP16" value="MAX3042BEUE" x="79.121" y="115.5058" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="57K8796" x="79.121" y="115.5058" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1259,7 +1245,6 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <attribute name="MPN" value="MAX3042BEUE+" x="79.121" y="115.5058" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="79.121" y="115.5058" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="72.1494" y="117.5004" size="1.016" layer="25" ratio="10" rot="R270"/>
-<attribute name="VALUE" x="65.5066" y="119.2396" size="1.016" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U$2" library="Custom" package="5569264-1" value="" x="101.381" y="9.765" rot="R90"/>
 <element name="C1" library="SparkFun-Passives" package="0603-CAP" value="0.1uF" x="73.9592" y="8.1708" rot="R180"/>
