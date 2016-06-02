@@ -1263,7 +1263,7 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <element name="C14" library="SparkFun-Passives" package="0603-CAP" value="0.1uF" x="74.01" y="98.8852" rot="R180"/>
 <element name="C15" library="SparkFun-Passives" package="0603-CAP" value="0.1uF" x="73.9592" y="106" rot="R180"/>
 <element name="C16" library="SparkFun-Passives" package="0603-CAP" value="0.1uF" x="73.9846" y="112.8862" rot="R180"/>
-<element name="U$3" library="microbuilder" package="BEAGLEBONE_OUTLINE_DOCU" value="BEAGLEBONE_OUTLINEDOCU_OUTLINE" x="-14.619" y="94.765" rot="R270"/>
+<element name="U$3" library="microbuilder" package="BEAGLEBONE_OUTLINE_DOCU" value="BEAGLEBONE_OUTLINEDOCU_OUTLINE" x="9.8322" y="105.5256" rot="MR180"/>
 </elements>
 <signals>
 <signal name="GND">
@@ -1349,15 +1349,15 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <wire x1="73.1092" y1="8.1708" x2="73.1092" y2="15.057" width="0" layer="19" extent="1-1"/>
 <wire x1="92.237" y1="5.701" x2="82.0388" y2="13.0908" width="0" layer="19" extent="1-1"/>
 <wire x1="98.587" y1="6.463" x2="92.237" y2="5.701" width="0" layer="19" extent="1-1"/>
-<wire x1="60.311" y1="42.06" x2="73.1854" y2="43.0336" width="0" layer="19" extent="1-1"/>
-<wire x1="60.311" y1="44.6" x2="60.311" y2="42.06" width="0" layer="19" extent="1-1"/>
-<wire x1="57.771" y1="44.6" x2="60.311" y2="44.6" width="0" layer="19" extent="1-1"/>
-<wire x1="57.771" y1="42.06" x2="60.311" y2="42.06" width="0" layer="19" extent="1-1"/>
+<wire x1="62.5372" y1="30.5956" x2="73.1854" y2="43.0336" width="0" layer="19" extent="1-1"/>
+<wire x1="59.9972" y1="30.5956" x2="62.5372" y2="30.5956" width="0" layer="19" extent="1-1"/>
+<wire x1="59.9972" y1="33.1356" x2="59.9972" y2="30.5956" width="0" layer="19" extent="1-1"/>
+<wire x1="62.5372" y1="33.1356" x2="62.5372" y2="30.5956" width="0" layer="19" extent="1-1"/>
 <wire x1="112.303" y1="5.701" x2="98.587" y2="6.463" width="0" layer="19" extent="1-1"/>
-<wire x1="4.431" y1="44.6" x2="57.771" y2="44.6" width="0" layer="19" extent="1-1"/>
-<wire x1="4.431" y1="42.06" x2="4.431" y2="44.6" width="0" layer="19" extent="1-1"/>
-<wire x1="4.431" y1="90.32" x2="4.431" y2="44.6" width="0" layer="19" extent="1-1"/>
-<wire x1="4.431" y1="92.86" x2="4.431" y2="90.32" width="0" layer="19" extent="1-1"/>
+<wire x1="59.9972" y1="86.4756" x2="59.9972" y2="33.1356" width="0" layer="19" extent="1-1"/>
+<wire x1="62.5372" y1="86.4756" x2="59.9972" y2="86.4756" width="0" layer="19" extent="1-1"/>
+<wire x1="14.2772" y1="86.4756" x2="59.9972" y2="86.4756" width="0" layer="19" extent="1-1"/>
+<wire x1="11.7372" y1="86.4756" x2="14.2772" y2="86.4756" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VCC">
 <contactref element="IC1" pad="16"/>
@@ -1625,17 +1625,17 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <signal name="VDD_3V3EXP">
 <contactref element="U$3" pad="49"/>
 <contactref element="U$3" pad="50"/>
-<wire x1="6.971" y1="42.06" x2="6.971" y2="44.6" width="0" layer="19" extent="1-1"/>
+<wire x1="62.5372" y1="83.9356" x2="59.9972" y2="83.9356" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VDD_5V">
 <contactref element="U$3" pad="51"/>
 <contactref element="U$3" pad="52"/>
-<wire x1="9.511" y1="42.06" x2="9.511" y2="44.6" width="0" layer="19" extent="1-1"/>
+<wire x1="62.5372" y1="81.3956" x2="59.9972" y2="81.3956" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="SYS_5V">
 <contactref element="U$3" pad="53"/>
 <contactref element="U$3" pad="54"/>
-<wire x1="12.051" y1="42.06" x2="12.051" y2="44.6" width="0" layer="19" extent="1-1"/>
+<wire x1="62.5372" y1="78.8556" x2="59.9972" y2="78.8556" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VDD_ADC">
 <contactref element="U$3" pad="78"/>
@@ -3466,6 +3466,12 @@ This Tempo Automation 2 Layer .DRU has been set to cover our standard requiremen
 <wire x1="76.2032" y1="23.1866" x2="76.2032" y2="30.0708" width="0" layer="19" extent="1-1"/>
 <wire x1="76.2032" y1="16.0702" x2="76.2032" y2="23.1866" width="0" layer="19" extent="1-1"/>
 <wire x1="76.2032" y1="9.1908" x2="76.2032" y2="16.0702" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="CLOCK1">
+<contactref element="U$3" pad="11"/>
+</signal>
+<signal name="CLOCK0">
+<contactref element="U$3" pad="27"/>
 </signal>
 </signals>
 </board>

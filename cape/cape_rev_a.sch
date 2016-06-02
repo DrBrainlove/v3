@@ -5644,6 +5644,20 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <pinref part="IC16" gate="G$1" pin="T4IN"/>
 </segment>
 </net>
+<net name="CLOCK1" class="0">
+<segment>
+<pinref part="U$3" gate="G$1" pin="GPIO1_13"/>
+<wire x1="2.54" y1="127" x2="-7.62" y2="127" width="0.1524" layer="91"/>
+<label x="-12.7" y="127" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="CLOCK0" class="0">
+<segment>
+<pinref part="U$3" gate="G$1" pin="GPIO2_22"/>
+<wire x1="2.54" y1="106.68" x2="-7.62" y2="106.68" width="0.1524" layer="91"/>
+<label x="-12.7" y="106.68" size="1.778" layer="95"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>
