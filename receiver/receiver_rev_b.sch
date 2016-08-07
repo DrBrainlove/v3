@@ -1566,8 +1566,8 @@ chip</description>
 <wire x1="0" y1="-3.95" x2="0" y2="3.95" width="0.127" layer="21"/>
 </package>
 <package name="POWERPOLE_PAIR_45A_HORIZ_HOLE">
-<pad name="RED" x="-3.95" y="-3.4" drill="4.5" shape="long" rot="R90"/>
-<pad name="BLACK" x="3.95" y="-3.4" drill="4.5" shape="long" rot="R90"/>
+<pad name="RED" x="-3.95" y="-3.4" drill="4.5" diameter="6.5" shape="long" rot="R90"/>
+<pad name="BLACK" x="3.95" y="-3.4" drill="4.5" diameter="6.5" shape="long" rot="R90"/>
 <wire x1="-7.9" y1="24.6" x2="-7.9" y2="16.4" width="0.127" layer="21"/>
 <wire x1="-7.9" y1="16.4" x2="-7.9" y2="15.97" width="0.127" layer="21"/>
 <wire x1="-7.9" y1="13.43" x2="-7.9" y2="0" width="0.127" layer="21"/>
